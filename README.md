@@ -3,8 +3,14 @@ Working tools are not infinite passwords
 
 
 # TERMUX
+       $ pkg update
+
+       $ pkg upgrade
+
+       $ pkg install git
+
        $ git clone https://github.com/OTHMANEE39/Make-a-password-list
-        
+       
        $ cd Make-a-password-list
         
        $ python OTHMANEE39.py
@@ -13,7 +19,9 @@ Working tools are not infinite passwords
        $ apt update
         
        $ apt upgrade
-        
+       
+       $ apt install git
+       
        $ sudo git clone https://github.com/OTHMANEE39/Make-a-password-list
         
        $ cd Make-a-password-list
